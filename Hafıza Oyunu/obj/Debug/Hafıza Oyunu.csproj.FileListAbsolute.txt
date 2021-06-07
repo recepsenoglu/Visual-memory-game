@@ -1,0 +1,19 @@
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe.config
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csprojAssemblyReference.cache
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Form1.resources
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.GenerateResource.cache
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.exe
+C:\Users\user_\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.pdb
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe.config
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csprojAssemblyReference.cache
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Form1.resources
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Properties.Resources.resources
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.GenerateResource.cache
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.CoreCompileInputs.cache
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.exe
+D:\yedek\masaüstü 3\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.pdb
